@@ -2,6 +2,8 @@ ID:11014444
 
 ## Overview
 The Task Tracker App is a detailed React Native application aimed at helping users efficiently manage and track their tasks across various categories, such as Exercise, Study, Code, Cook, and more. With an intuitive interface, the app simplifies the process of viewing, adding, organizing, and managing tasks, keeping users productive and organized.
+## ScreenShot
+<img width="380px" src="https://i.ibb.co/JrcfmqJ/Screenshot-20240601-144609.jpg"/>
 
 ## Components
 * ### 1. View
